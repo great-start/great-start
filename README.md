@@ -2,7 +2,7 @@
 
 
 
-Hi, I'm Bilinevich Evgen, a Back-end developer from Ukraine.
+Hi, I'm Bilinevich Evgen, a Backend developer from Ukraine.
 
 **Languages and Tools:**  
 
@@ -17,5 +17,5 @@ Hi, I'm Bilinevich Evgen, a Back-end developer from Ukraine.
 <code><img height="25px" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code> -->
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,mongodb,postgres,prisma,docker,git,react)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,mongodb,postgres,prisma,docker,git,react&theme=light)](https://skills.thijs.gg)
 
