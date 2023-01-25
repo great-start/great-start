@@ -19,4 +19,4 @@ Hi, I'm Bilinevich Evgen, a Backend developer from Ukraine.
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,mongodb,postgres,prisma,docker,git,react&theme=light)](https://skills.thijs.gg)
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=great-start&show_icons=true" alt="myGitStats" />
+<!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=great-start&show_icons=true" alt="myGitStats" /> -->
