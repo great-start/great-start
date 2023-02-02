@@ -32,8 +32,6 @@ Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="60" height="60"/> 
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/>
