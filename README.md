@@ -17,12 +17,10 @@ Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 <code><img height="25" title="MySQL" src="https://github.com/feden2906/icons/blob/main/skils/MySQL.png"></code>
 <code><img height="25" title="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25px" title="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /></code> -->
-
-
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,mongodb,postgres,prisma,docker,git,react&theme=light)](https://skills.thijs.gg) -->
-
-
 <!-- <h3 align="left">Languages and Tools:</h3> -->
+
+
 
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
@@ -39,6 +37,7 @@ Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> 
 </div>
+
 
 
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> -->
