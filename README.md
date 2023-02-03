@@ -50,7 +50,7 @@ Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 <!-- <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> -->
 <!-- <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> -->
 <!-- <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> -->
-<!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer">  -->
+<!-- <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> -->
 <!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=great-start&show_icons=true" alt="myGitStats" /> -->
 
 
