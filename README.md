@@ -60,4 +60,4 @@ Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=great-start&show_icons=true&locale=en&layout=compact" alt="emrekrt1655" /></p>
-<p> <img src="https://github-readme-stats.vercel.app/api?username=great-start&show_icons=true" alt="myGitStats" />
+<!-- <p> <img src="https://github-readme-stats.vercel.app/api?username=great-start&show_icons=true" alt="myGitStats" /> -->
