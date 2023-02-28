@@ -23,7 +23,6 @@ Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 
 
 
-
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
