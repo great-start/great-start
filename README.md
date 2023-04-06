@@ -6,6 +6,9 @@ Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 <a href="https://www.linkedin.com/in/bilinevichevgen/">
   <img align="left" alt="Linkedin" width="35px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
 </a>
+<a href="mailto:zhenya.bill@gmail.com">
+  <img align="left" alt="Mail" width="35px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
+</a>
 <br>
 <br>
 <br>
