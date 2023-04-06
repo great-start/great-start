@@ -5,7 +5,7 @@ Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 
 <br>
 <a href="https://www.linkedin.com/in/bilinevichevgen/">
-  <img align="left" alt="Linkdin" width="24px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
+  <img align="left" alt="Linkedin" width="35px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
 </a>
 <br>
 
