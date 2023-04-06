@@ -7,7 +7,6 @@ Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 <a href="https://www.linkedin.com/in/bilinevichevgen/">
   <img align="left" alt="Linkdin" width="24px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
 </a>
- 
 
 **Languages and Tools:**  
 
