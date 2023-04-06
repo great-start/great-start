@@ -5,6 +5,9 @@
 Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 
 <br>
+<a href="[https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D1%84%D0%B5%D0%B4%D0%B5%D0%BD%D0%BA%D0%BE-22a5781b9/](https://www.linkedin.com/in/bilinevichevgen/)">
+  <img align="left" alt="Linkdin" width="24px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
+</a>
  
 
 **Languages and Tools:**  
