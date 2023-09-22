@@ -44,7 +44,7 @@ Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> 
-<img src="https://api.nuget.org/v3-flatcontainer/yarnpkg.yarn/1.7.0/icon" alt="redux" width="100" height="50"/> 
+<!-- <img src="https://api.nuget.org/v3-flatcontainer/yarnpkg.yarn/1.7.0/icon" alt="redux" width="100" height="50"/>  -->
 </div>
 
 
