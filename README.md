@@ -13,7 +13,6 @@ Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
 <br>
 <br>
 <br>
-<br>
   
 **Languages and Tools:**  
 
