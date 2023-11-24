@@ -1,6 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
 
-Hi, I'm Bilinevich Evgen, a backend developer from Ukraine.
+Hi, I'm Bilinevich Evgen, a backend/software developer from Ukraine.
 
 <a href="https://www.linkedin.com/in/bilinevichevgen/">
   <img align="left" alt="Linkedin" width="35px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
