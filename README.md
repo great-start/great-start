@@ -13,6 +13,17 @@ Hi, I'm Bilinevich Evgen, a backend/software developer from Ukraine.
 <br>
 <br>
 <br>
+
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
+[<img alt="Почта" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+[<img alt="Почта" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][linkedin]
+
+
+[telegram]: https://t.me/zhenya_bill
+[gmail]: mailto:zhenya.bill@gmail.com
+[linkedin]: www.linkedin.com/in/bilinevichevgen
+
+
   
 **Languages and Tools:**  
 
