@@ -2,16 +2,16 @@
 
 Hi, I'm Bilinevich Evgen, a backend/software developer from Ukraine.
 
-<a href="https://www.linkedin.com/in/bilinevichevgen/">
-  <img align="left" alt="Linkedin" width="35px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" />
-</a>
-<a href="mailto:zhenya.bill@gmail.com">
+<!-- <a href="https://www.linkedin.com/in/bilinevichevgen/">
+<!--   <img align="left" alt="Linkedin" width="35px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" /> -->
+<!-- </a> -->
+<!-- <a href="mailto:zhenya.bill@gmail.com">
   <img align="left" alt="Mail" width="35px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
-</a>
-<br>
-<br>
-<br>
-<br>
+</a> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
+<!-- <br> -->
 <br>
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
@@ -24,7 +24,10 @@ Hi, I'm Bilinevich Evgen, a backend/software developer from Ukraine.
 [linkedIn]: https://www.linkedin.com/in/bilinevichevgen
 
 
-  
+
+<br>
+<br>
+<br>
 **Languages and Tools:**  
 
 
