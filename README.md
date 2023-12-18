@@ -5,9 +5,9 @@ Hi, I'm Bilinevich Evgen, a backend/software developer from Ukraine.
 <!-- <a href="https://www.linkedin.com/in/bilinevichevgen/">
 <!--   <img align="left" alt="Linkedin" width="35px" src="https://github.com/feden2906/icons/blob/main/linkedin.png" /> -->
 <!-- </a> -->
-<!-- <a href="mailto:zhenya.bill@gmail.com">
+<a href="mailto:zhenya.bill@gmail.com">
   <img align="left" alt="Mail" width="35px" src="https://github.com/feden2906/icons/blob/main/gmail.png" />
-</a> -->
+</a>
 <!-- <br> -->
 <!-- <br> -->
 <!-- <br> -->
@@ -15,12 +15,12 @@ Hi, I'm Bilinevich Evgen, a backend/software developer from Ukraine.
 <br>
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
-[<img alt="Почта" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
+<img alt="Почта" href="mailto:zhenya.bill@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 [<img alt="linkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedIn]
 
 
 [telegram]: https://t.me/zhenya_bill
-[gmail]: mailto:zhenya.bill@gmail.com
+<!-- [gmail]: mailto:zhenya.bill@gmail.com -->
 [linkedIn]: https://www.linkedin.com/in/bilinevichevgen
 
 
