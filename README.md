@@ -21,7 +21,7 @@ Hi, I'm Bilinevich Evgen, a backend/software developer from Ukraine.
 
 [telegram]: https://t.me/zhenya_bill
 [gmail]: mailto:zhenya.bill@gmail.com
-[linkedIn]: www.linkedin.com/in/bilinevichevgen
+[linkedIn]: https://www.linkedin.com/in/bilinevichevgen
 
 
   
