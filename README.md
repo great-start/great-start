@@ -26,7 +26,7 @@ Hi, I'm <b>Bilinevich Evgen</b>, a <b>backend & software developer</b> from Ukra
 <br>
 <br>
 <b>Languages and Tools:</b>  
-<br><br>
+<br>
 
 <!-- <code><img width="25px" src="https://cdn.freebiesupply.com/logos/large/2x/webstorm-icon-logo-png-transparent.png" /></code>
 <code><img height="25" title="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -45,40 +45,40 @@ Hi, I'm <b>Bilinevich Evgen</b>, a <b>backend & software developer</b> from Ukra
 <div align="center">
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> -->
 <!-- <img alt="javascript" src="https://img.shields.io/badge/JS-D14836?style=for-the-badge&logo=javascript&logoColor=white" /> -->
-<img alt="javascript" src="https://skillicons.dev/icons?i=js" />
+<img alt="javascript" src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,mongodb,postgresql,redis,prisma,react,redux" />
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> -->
-<img alt="typescript" src="https://skillicons.dev/icons?i=ts" />
+<!-- <img alt="typescript" src="https://skillicons.dev/icons?i=ts" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/> -->
-<img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+<!-- <img alt="nodejs" src="https://skillicons.dev/icons?i=nodejs" /> -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"/> -->
-<img alt="nestjs" src="https://skillicons.dev/icons?i=nestjs" />
+<!-- <img alt="nestjs" src="https://skillicons.dev/icons?i=nestjs" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="50" height="50"/> --> 
-<img alt="express" src="https://skillicons.dev/icons?i=express" />
+<!-- <img alt="express" src="https://skillicons.dev/icons?i=express" /> -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="60" height="60"/> -->
-<img alt="docker" src="https://skillicons.dev/icons?i=docker" />
+<!-- <img alt="docker" src="https://skillicons.dev/icons?i=docker" /> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> -->
-<img alt="git" src="https://skillicons.dev/icons?i=git" /> 
-<img alt="github" src="https://skillicons.dev/icons?i=github" />
-<img alt="githubactions" src="https://skillicons.dev/icons?i=githubactions" />
+<img alt="git" src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,grafana,prometheus,postman" />
+<!-- <img alt="github" src="https://skillicons.dev/icons?i=github" /> -->
+<!-- <img alt="githubactions" src="https://skillicons.dev/icons?i=githubactions" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> -->
-<img alt="linux" src="https://skillicons.dev/icons?i=linux" /> 
+<!-- <img alt="linux" src="https://skillicons.dev/icons?i=linux" />  -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/> -->
-<img alt="mongodb" src="https://skillicons.dev/icons?i=mongodb" /> 
+<!-- <img alt="mongodb" src="https://skillicons.dev/icons?i=mongodb" />  -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="50" height="50"/> -->
-<img alt="postgresql" src="https://skillicons.dev/icons?i=postgresql" /> 
+<!-- <img alt="postgresql" src="https://skillicons.dev/icons?i=postgresql" />  -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="50" height="50"/> -->
-<img alt="prisma" src="https://skillicons.dev/icons?i=prisma" />
-<img alt="redis" src="https://skillicons.dev/icons?i=redis" />
+<!-- <img alt="prisma" src="https://skillicons.dev/icons?i=prisma" /> -->
+<!-- <img alt="redis" src="https://skillicons.dev/icons?i=redis" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="50" height="50"/> -->
-<img alt="react" src="https://skillicons.dev/icons?i=react" />
+<!-- <img alt="react" src="https://skillicons.dev/icons?i=react" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/> -->
-<img alt="redux" src="https://skillicons.dev/icons?i=redux" />
+<!-- <img alt="redux" src="https://skillicons.dev/icons?i=redux" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="redux" width="50" height="50"/>  -->
 <!-- <img src="https://api.nuget.org/v3-flatcontainer/yarnpkg.yarn/1.7.0/icon" alt="redux" width="100" height="50"/>  -->
 <!-- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>  -->
-<img alt="postman" src="https://skillicons.dev/icons?i=postman" />
-<img alt="grafana" src="https://skillicons.dev/icons?i=grafana" />
-<img alt="prometheus" src="https://skillicons.dev/icons?i=prometheus" />
+<!-- <img alt="postman" src="https://skillicons.dev/icons?i=postman" /> -->
+<!-- <img alt="grafana" src="https://skillicons.dev/icons?i=grafana" /> -->
+<!-- <img alt="prometheus" src="https://skillicons.dev/icons?i=prometheus" /> -->
 </div>
 
 
