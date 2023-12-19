@@ -40,9 +40,9 @@ Hi, I'm <b>Bilinevich Evgen</b>, a <b>backend & software developer</b> from Ukra
 <!-- [![My Skills](https://skills.thijs.gg/icons?i=js,ts,nodejs,express,nestjs,mongodb,postgres,prisma,docker,git,react&theme=light)](https://skills.thijs.gg) -->
 <!-- <h3 align="left">Languages and Tools:</h3> -->
 
+---
 
-
-<div>
+<div align="center">
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> -->
 <!-- <img alt="javascript" src="https://img.shields.io/badge/JS-D14836?style=for-the-badge&logo=javascript&logoColor=white" /> -->
 <img alt="javascript" src="https://skillicons.dev/icons?i=js" />
