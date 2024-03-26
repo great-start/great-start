@@ -46,6 +46,7 @@ Hi, I'm <b>Bilinevych Yevhen</b>, a <b>backend & software developer</b> from Ukr
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> -->
 <!-- <img alt="javascript" src="https://img.shields.io/badge/JS-D14836?style=for-the-badge&logo=javascript&logoColor=white" /> -->
 <img alt="javascript" src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,express,mongodb,postgresql,redis,prisma,react,redux" />
+<!-- <img height="50" width="50" src="https://cdn.simpleicons.org/nx/white" /> -->
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> -->
 <!-- <img alt="typescript" src="https://skillicons.dev/icons?i=ts" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="50" height="50"/> -->
