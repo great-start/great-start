@@ -58,7 +58,7 @@ Hi, I'm <b>Bilinevych Yevhen</b>, a <b>backend & software developer</b> from Ukr
 <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="60" height="60"/> -->
 <!-- <img alt="docker" src="https://skillicons.dev/icons?i=docker" /> -->
 <!-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> -->
-<img alt="git" src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,grafana,prometheus,postman,yarn,webpack,cloudflare" />
+<img alt="git" src="https://skillicons.dev/icons?i=git,github,githubactions,linux,bash,docker,nginx,grafana,prometheus,postman,yarn,webpack,cloudflare" />
 <!-- <img alt="github" src="https://skillicons.dev/icons?i=github" /> -->
 <!-- <img alt="githubactions" src="https://skillicons.dev/icons?i=githubactions" /> -->
 <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> -->
